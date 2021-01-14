@@ -73,7 +73,7 @@ All of the content provided in this study guide can be found online.
 
 # Describe core solutions and management tools on Azure (10-15%)
 
-## Describe core solutions available in Azure
+## Describe core solutions available in Azure - [◈](./materials/core_solutions_and_management_solutions_in_azure/core_solutions_available_in_azure.md)
 
 - Describe the benefits and usage of Internet of Things (IoT) Hub, IoT Central, and Azure Sphere
 - Describe the benefits and usage of Azure Synapse Analytics, HDInsight, and Azure Databricks
@@ -82,7 +82,7 @@ All of the content provided in this study guide can be found online.
 - Describe the benefits and usage of Azure DevOps, GitHub, GitHub Actions, and Azure DevTest Labs
 
 
-## Describe Azure management tools
+## Describe Azure management tools - [◈](./materials/core_solutions_and_management_solutions_in_azure/azure_management_tools.md)
 
 - Describe the functionality and usage of the Azure Portal, Azure PowerShell, Azure CLI, Cloud Shell, and Azure Mobile App
 - Describe the functionality and usage of Azure Advisor
@@ -96,7 +96,7 @@ All of the content provided in this study guide can be found online.
 
 # Describe general security and network security features (10-15%)
 
-## Describe Azure security features
+## Describe Azure security features - [◈](./materials/general_security_and_network_security_features/azure_security_features.md)
 
 - Describe basic features of Azure Security Center, including policy compliance, security alerts, secure score, and resource hygiene
 - Describe the functionality and usage of Key Vault
@@ -104,7 +104,7 @@ All of the content provided in this study guide can be found online.
 - Describe the functionality and usage of Azure Dedicated Hosts
 
 
-## Describe Azure network security
+## Describe Azure network security - [◈](./materials/general_security_and_network_security_features/azure_network_security.md)
 
 - Describe the concept of defense in depth
 - Describe the functionality and usage of Network Security Groups (NSG)
@@ -113,7 +113,13 @@ All of the content provided in this study guide can be found online.
 25%)
 
 
-## Describe core Azure identity services
+---
+
+
+# Describe identity, governance, privacy, and compliance features (20-25%)
+
+
+## Describe core Azure identity services - [◈](./materials/identity_governance_privacy_and_compliance_features/core_azure_identity_services.md)
 
 - Explain the difference between authentication and authorization
 - Define Azure Active Directory
@@ -121,7 +127,7 @@ All of the content provided in this study guide can be found online.
 - Describe the functionality and usage of Conditional Access, Multi-Factor Authentication (MFA), and Single Sign-On (SSO)
 
 
-## Describe Azure governance features
+## Describe Azure governance features - [◈](./materials/identity_governance_privacy_and_compliance_features/azure_governance_features.md)
 
 - Describe the functionality and usage of Role-Based Access Control (RBAC)
 - Describe the functionality and usage of resource locks
@@ -131,7 +137,7 @@ All of the content provided in this study guide can be found online.
 - Describe the Cloud Adoption Framework for Azure
 
 
-## Describe privacy and compliance resources
+## Describe privacy and compliance resources - [◈](./materials/identity_governance_privacy_and_compliance_features/privacy_and_compliance_resources.md)
 
 - Describe the Microsoft core tenets of Security, Privacy, and Compliance
 - Describe the purpose of the Microsoft Privacy Statement, Online Services Terms (OST) and Data Protection Amendment (DPA)
@@ -145,14 +151,14 @@ All of the content provided in this study guide can be found online.
 
 # Describe Azure cost management and Service Level Agreements (10-15%)
 
-## Describe methods for planning and managing costs
+## Describe methods for planning and managing costs - [◈](./materials/cost_management_and_service_level_agreements/methods_for_planning_and_managing_costs.md)
 - Identify factors that can affect costs (resource types, services, locations, ingress and egress traffic)
 - Identify factors that can reduce costs (reserved instances, reserved capacity, hybrid use benefit, spot pricing)
 - Describe the functionality and usage of the Pricing calculator and the Total Cost of Ownership (TCO) calculator
 - Describe the functionality and usage of Azure Cost Management
 
 
-## Describe Azure Service Level Agreements (SLAs) and service lifecycles
+## Describe Azure Service Level Agreements (SLAs) and service lifecycles - [◈](./materials/cost_management_and_service_level_agreements/azure_service_level_agreements_and_service_lifestyles.md)
 - Describe the purpose of an Azure Service Level Agreement (SLA)
 - Identify actions that can impact an SLA (i.e. Availability Zones)
 - Describe the service lifecycle in Azure (Public Preview and General Availability)
