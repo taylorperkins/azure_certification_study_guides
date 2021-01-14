@@ -48,7 +48,7 @@ All of the content provided in this study guide can be found online.
 
 # Describe Core Azure Services (15-20%)
 
-## Describe the core Azure architectural components
+## Describe the core Azure architectural components - [◈](./materials/core_azure_services/core_azure_architecture_components.md)
 
 - Describe the benefits and usage of Regions and Region Pairs
 - Describe the benefits and usage of Availability Zones
@@ -59,7 +59,7 @@ All of the content provided in this study guide can be found online.
 - Explain Azure resources
 
 
-## Describe core resources available in Azure
+## Describe core resources available in Azure - [◈](./materials/core_azure_services/core_resources_available_in_azure.md)
 
 - Describe the benefits and usage of Virtual Machines, Azure App Services, Azure Container Instances (ACI), Azure Kubernetes Service (AKS), and Windows Virtual Desktop
 - Describe the benefits and usage of Virtual Networks, VPN Gateway, Virtual Network peering, and ExpressRoute
