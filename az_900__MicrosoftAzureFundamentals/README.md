@@ -12,6 +12,11 @@ All of the content provided in this study guide can be found online.
 
 # Skills Measured (original can be found [here](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY) as of Jan 14, 2020)
 
+# Other Resources
+
+* Great blog around different resources and exam content: https://medium.com/weareservian/azure-az-900-exam-preparation-guide-how-to-pass-in-3-days-dabf5534507a
+	* Grabbed [this link](https://www.whizlabs.com/learn/course/microsoft-azure-az-900/) from the blog to practice for the test. Comes with a free test of around 45 questions! Overall was pretty comparable to the test itself.
+
 
 ---
 
